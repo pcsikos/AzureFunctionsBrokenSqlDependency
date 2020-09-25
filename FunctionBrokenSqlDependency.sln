@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionBrokenSqlDepenency", "FunctionBrokenSqlDepenency\FunctionBrokenSqlDepenency.csproj", "{4E094E4A-EB2B-4977-BC6B-6E69CD2AE56D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionBrokenSqlDependency", "C:\Users\pcsikos\source\repos\FunctionBrokenSqlDependency\FunctionBrokenSqlDependency\FunctionBrokenSqlDependency.csproj", "{2147C7B2-9ADD-4F9A-8B37-299C640959C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E094E4A-EB2B-4977-BC6B-6E69CD2AE56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E094E4A-EB2B-4977-BC6B-6E69CD2AE56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E094E4A-EB2B-4977-BC6B-6E69CD2AE56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E094E4A-EB2B-4977-BC6B-6E69CD2AE56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2147C7B2-9ADD-4F9A-8B37-299C640959C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2147C7B2-9ADD-4F9A-8B37-299C640959C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2147C7B2-9ADD-4F9A-8B37-299C640959C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2147C7B2-9ADD-4F9A-8B37-299C640959C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
